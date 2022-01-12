@@ -24,3 +24,22 @@ Third"""
 
 print(myStringFive)
 print(myStringSix)
+
+
+#OUTPUT
+
+'''
+This is Single Quote
+This is Double Quotes
+This is Single Quote "Test"
+This is Double Quotes 'Test'
+First
+Second 'Test' "Test"
+Third
+First
+Second "Test" \\ 'Test'
+Third
+'''
+
+
+
